@@ -1,16 +1,9 @@
 [
   {
-    "category": "Информация о версии",
-    "title": "Что нового?",
-    "date": "04 мая 2026",
+    "category": "обновление",
+    "title": "V1.2.0 - Что нового?",
+    "date": "08 мая 2026",
     "img_url": "https://raw.githubusercontent.com/BssCreate/-/refs/heads/main/NEWS/News_1.png",
-    "link": "https://t.me/sputnik_prod"
-  },
-  {
-    "category": "Новости",
-    "title": "Новые уровни",
-    "date": "01 мая 2026",
-    "img_url": "https://images.unsplash.com/photo-1606768666853-403c90a981ad?w=200&h=200&fit=crop",
-    "link": "https://t.me/sputnik_prod"
+    "link": "https://vk.com/sputnikprodapp"
   }
 ]
